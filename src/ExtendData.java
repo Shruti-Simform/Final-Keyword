@@ -1,6 +1,4 @@
 //class ExtendData extends Data{                        //(ERROR) : final class can't be inherited
-
-
 //    void display(int id, String name){                //(ERROR) : final method can't be overridden
 //        int age = 20;
 //        System.out.println(
@@ -10,6 +8,4 @@
 //                "Company : " + COMPANY
 //        );
 //    }
-
-
 //}
