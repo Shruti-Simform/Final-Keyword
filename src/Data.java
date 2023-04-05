@@ -4,8 +4,8 @@ final class Data {
     final void display(int id, String name) {
         System.out.println(
                 "ID : " + id + "\n" +
-                        "Name : " + name + "\n" +
-                        "Company : " + COMPANY
+                "Name : " + name + "\n" +
+                "Company : " + COMPANY
         );
     }
 }
